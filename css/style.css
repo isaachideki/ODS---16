@@ -1,0 +1,92 @@
+body{
+    background-color: #0484c4;
+}
+
+
+h1 {
+    color: #ffffff;
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: 1000;
+    font-size: min(5vw, 45px);
+    line-height: 37px;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    text-align: left;
+    width: 90%;
+}
+
+h2 {
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: 450;
+    font-size: min(4vw, 40px);
+    line-height: 40px;
+    color: #ffffff;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    text-align: left;
+    width: 100%;
+}
+
+.font{
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: 450;
+    font-size: min(2vw, 50px);
+    line-height: 30px;
+    color: #ffffff;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    text-align: left;
+    width: 80%;
+}
+
+.img{
+    margin-top: 30px;
+    border-radius: 35px;
+    width: 650px;
+    height: 550px;
+}
+.barra{
+    min-height: 10px;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    background: #FFFFFF;
+}
+.video-container{
+    height: 0;
+    position: relative;
+    padding-top: 25px;
+    padding-bottom: 56.25%;
+}
+.video-container iframe{
+    position: absolute;
+    top: 0;
+    left: 10%;
+    width: 80%;
+    height: 80%;   
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #ffffff;
+}
+
+footer{
+position: relative;
+bottom: 0px;
+width: 100%;
+background: #036697;
+}
+
+.tent{
+ width: 100%;
+ height: 15vh;
+}
+

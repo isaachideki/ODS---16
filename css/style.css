@@ -2,7 +2,6 @@ body{
     background-color: #0484c4;
 }
 
-
 h1 {
     color: #ffffff;
     font-family: 'Raleway', sans-serif;
@@ -71,12 +70,6 @@ h2 {
     width: 80%;
     height: 80%;   
 }
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    color: #ffffff;
-}
 
 footer{
 position: relative;
@@ -90,3 +83,6 @@ background: #036697;
  height: 15vh;
 }
 
+.eu{
+    border: 1px solid #000;
+}

@@ -1,3 +1,4 @@
+
 //Criar uma variável para manipular o XML
 xmlhttp = new XMLHttpRequest();
 //Seleciona o arquivo XML
